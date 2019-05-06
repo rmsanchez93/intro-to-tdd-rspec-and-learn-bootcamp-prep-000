@@ -1,4 +1,3 @@
-def current(arg)
-  today = Time.now
-  puts today
+def 
+  current_age_for_birth_year
 end
